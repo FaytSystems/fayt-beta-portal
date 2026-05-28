@@ -342,7 +342,7 @@ function App() {
                 "Confirm your Coinbase Advanced account.",
                 "Enable two-factor authentication.",
                 "Create the API key only when beta launch instructions are provided.",
-                "Do not upload your API secret to Faytâ€™s website.",
+                "Do not upload your API secret to Fayt's website.",
                 "Store credentials locally on your own computer.",
                 "Keep live orders disabled until launch-day checks pass.",
               ]).map((item) => <li key={item}>{item}</li>)}
